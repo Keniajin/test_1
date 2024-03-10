@@ -20,3 +20,13 @@ surv_raw <- import(here("data", "raw", "surveillance_linelist_20141201.csv"))
 # (contents may vary)
 # column names
 names(surv_raw)
+
+
+# sex values
+surv_raw %>%
+  tabyl(sex)
+
+
+# fever values
+surv_raw %>%
+  tabyl(fever)
