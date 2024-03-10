@@ -1,0 +1,1 @@
+[08/09/2023 00:17:53] Info - Folder path skipped: "C:\Documents and Settings\" (folder is a mount point or symbolic link). If needed, enable the traversal of these folders in Options.
